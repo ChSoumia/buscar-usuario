@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.
+# Para permitir que todos los robots tengan acceso completo
+#  * significa que esta sección se aplica a todos los robots
+# El " Disallow: / " le indica al robot que no debe visitar ninguna página del sitio.
+
+User-agent: *
+Disallow:
